@@ -5,3 +5,5 @@ If you want to clone the repo, use the command:
 git clone https://github.com/sqrensen/python-best-practices
 
 This is a change for the first commit
+This is a change for the second commit
+
