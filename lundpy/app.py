@@ -4,6 +4,8 @@ import logging  # Added import
 
 app = Flask(__name__)
 
+# A dummy comment
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
